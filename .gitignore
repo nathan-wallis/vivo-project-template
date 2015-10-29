@@ -17,3 +17,6 @@ revisionInfo
 .classpath
 .project
 .settings
+
+#Vim Files
+*.swp
